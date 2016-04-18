@@ -1,0 +1,10 @@
+PODS:
+  - ACPButton (1.0.0)
+
+DEPENDENCIES:
+  - ACPButton (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  ACPButton: ba5f231d6c7cd84ed0c192602b6261ef7de708cb
+
+COCOAPODS: 0.39.0
