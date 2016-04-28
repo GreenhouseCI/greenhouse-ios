@@ -629,6 +629,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "greenhouse-ios/greenhouse-ios-Prefix.pch";
 				INFOPLIST_FILE = "greenhouse-ios/greenhouse-ios-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.greenhouseci.greenhouse-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -642,6 +643,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "greenhouse-ios/greenhouse-ios-Prefix.pch";
 				INFOPLIST_FILE = "greenhouse-ios/greenhouse-ios-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.greenhouseci.greenhouse-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -804,6 +806,7 @@
 				77CBB5471952CF83007B2090 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		77CBB54B1952CF83007B2090 /* Build configuration list for PBXNativeTarget "greenhouse-ios-secondTests" */ = {
 			isa = XCConfigurationList;
@@ -812,6 +815,7 @@
 				77CBB5491952CF83007B2090 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
