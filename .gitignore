@@ -1,1 +1,6 @@
 **/.DS_Store
+greenhouse-ios/build
+build/
+greenhouse-ios/appium/java/target
+
+**/.idea
